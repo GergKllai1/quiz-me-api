@@ -1,38 +1,56 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/GergKllai1/craftacademy/react-projects/quiz-me-api/app/mailers/application_mailer.rb": [
+      "/home/aditya/projects/quiz-me-api/app/controllers/api/quiz_controller.rb": [
+        1,
+        1,
+        5,
+        5,
+        null,
+        null
+      ],
+      "/home/aditya/projects/quiz-me-api/app/controllers/application_controller.rb": [
+        1,
+        null
+      ],
+      "/home/aditya/projects/quiz-me-api/app/services/quiz_service.rb": [
+        1,
+        null,
+        1,
+        1,
+        5,
+        5,
+        null,
+        null
+      ],
+      "/home/aditya/projects/quiz-me-api/app/mailers/application_mailer.rb": [
         0,
         0,
         0,
         0
       ],
-      "/Users/GergKllai1/craftacademy/react-projects/quiz-me-api/app/models/application_record.rb": [
+      "/home/aditya/projects/quiz-me-api/app/models/application_record.rb": [
         0,
         0,
         0
       ],
-      "/Users/GergKllai1/craftacademy/react-projects/quiz-me-api/app/jobs/application_job.rb": [
-        0,
-        0
-      ],
-      "/Users/GergKllai1/craftacademy/react-projects/quiz-me-api/app/controllers/application_controller.rb": [
-        0,
-        0
-      ],
-      "/Users/GergKllai1/craftacademy/react-projects/quiz-me-api/app/channels/application_cable/connection.rb": [
+      "/home/aditya/projects/quiz-me-api/app/channels/application_cable/channel.rb": [
         0,
         0,
         0,
         0
       ],
-      "/Users/GergKllai1/craftacademy/react-projects/quiz-me-api/app/channels/application_cable/channel.rb": [
+      "/home/aditya/projects/quiz-me-api/app/channels/application_cable/connection.rb": [
         0,
         0,
+        0,
+        0
+      ],
+      "/home/aditya/projects/quiz-me-api/app/jobs/application_job.rb": [
         0,
         0
       ]
     },
-    "timestamp": 1550491343
+    "timestamp": 1550494517
   }
 }
