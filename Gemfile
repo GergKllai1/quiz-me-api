@@ -11,6 +11,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'rack-cors'
 gem 'faker'
 gem 'active_model_serializers'
+gem 'rest-client'
 
 group :development, :test do
   gem 'pry-rails'
